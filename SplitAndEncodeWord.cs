@@ -20,7 +20,6 @@ namespace Viselica
             {
                 AlllData.Cherti.Add("_ ");
                 Console.Write(AlllData.Cherti[i]);
-                
             }
 
 

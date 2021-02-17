@@ -14,6 +14,7 @@ namespace Viselica
             link3.CountTries();
             Game link4 = new Game();
             link4.GuessWord();
+            
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Viselica
         {
             AlllData.count = AlllData.sumofletters;
             Console.SetCursorPosition(60, 0);
-            Console.WriteLine("Ваши попытки:" + AlllData.count);
+            Console.WriteLine("Ваше количество попыток:" + AlllData.count);
         }
     }
 }
